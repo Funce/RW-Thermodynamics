@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Thermodynamics - Core\1.1\Assemblies\ThermodynamicsCore.dll
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\Thermodynamics Core.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\Thermodynamics Core.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\Thermodynamics Core.csproj.CopyComplete
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\ThermodynamicsCore.dll
